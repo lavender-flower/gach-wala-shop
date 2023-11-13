@@ -1,0 +1,23 @@
+.header{
+    text-align: justify;
+}
+.logo{
+    height: 80px;
+    margin-top: 50px;
+    
+    
+}
+.header nav{
+    background-color: yellowgreen;
+    line-height: 100px;
+
+}
+.header nav a{
+    padding: 5px;
+text-decoration: none;
+color: white;
+margin-bottom: 50px;
+margin-right:50px;
+font-size: large;
+
+}

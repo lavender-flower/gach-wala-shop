@@ -1,0 +1,41 @@
+.main-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+.plant-container{
+    border-right: 1px solid lightgray;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.all-plants{
+    
+   
+        align-items: center;
+        justify-content: center;
+        padding: 10px;
+        
+        
+    
+}
+.search-container{
+    padding: 5px;
+    background-color:rgb(2, 87, 2);
+    text-align: left;
+    color: rgb(253, 253, 253);
+}
+.h{
+margin-left: 40px;
+text-align: center;
+}
+.search-bar{
+width: 75%;
+
+padding: 5px;
+}
+.cart-container{
+    background-color:rgb(2, 87, 2);
+    color: white;
+    text-align: left;
+
+}

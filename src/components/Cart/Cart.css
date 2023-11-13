@@ -1,0 +1,16 @@
+.cart-plant img{
+height: 100px;
+}
+
+.cart{
+    margin-left: 10px;
+
+}
+.btn-regular{
+    background-color:yellow;
+    width: 150px;
+    height: 25px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
